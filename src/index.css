@@ -1,0 +1,5 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(#d8c7ff, #19006c);
+    font-family: "Poppins", system-ui;
+}
